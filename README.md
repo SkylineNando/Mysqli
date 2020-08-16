@@ -8,5 +8,5 @@ MySQL é o sistema de banco de dados mais popular usado com PHP.
 
 #### Loop:
 
-```do-while```
-```while```
+* do-while
+* while
