@@ -1,4 +1,4 @@
-# mysqli
+# Mysqli
 Aplicativos em PHP
 
 Com o PHP, você pode se conectar e manipular bancos de dados.
