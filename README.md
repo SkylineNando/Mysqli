@@ -16,3 +16,7 @@ MySQL é o sistema de banco de dados mais popular usado com PHP.
 * Insert into
 * Insert into - Filter Data
 * Insert into - Multiple Records
+
+#### UPDATE:
+
+* Update
