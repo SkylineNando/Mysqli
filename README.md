@@ -24,4 +24,4 @@ MySQL é o sistema de banco de dados mais popular usado com PHP.
 
 #### DELETE:
 
-* DELETE
+* Delete
